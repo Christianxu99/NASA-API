@@ -19,7 +19,7 @@ function Mrp() {
 
   useEffect(() => {
     getPicturesFromAPI(parsedDate)
-  }, []);
+  }, [parsedDate]);
 
   return (
     <div className="content">
