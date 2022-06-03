@@ -23,7 +23,7 @@ function Mrp() {
 
   return (
     <div className="content">
-    <Link to="/">ACCEUIL</Link> 
+    <Link to="/">ACCUEIL</Link> 
       <h1>Chercher des photos par date</h1>
       <form>
         <label>
