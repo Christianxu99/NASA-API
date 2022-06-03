@@ -18,7 +18,7 @@ function Apod() {
   
     return (
       <div className='content'>
-          <Link to="/">ACCEUIL</Link>
+          <Link to="/">ACCUEIL</Link>
           <h1>NASA</h1>
           <h2>Astronomy Picture of the Day</h2>
           {data.title}
